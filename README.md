@@ -4,7 +4,6 @@ Binance Moonbix is an automated script for playing the Moon-bix game on the Bina
 
 ## Features
 
-- Automated login using Telegram tokens
 - Automatic task completion
 - Automated Moonbix game play
 - Proxy support
